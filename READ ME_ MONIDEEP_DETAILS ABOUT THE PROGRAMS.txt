@@ -31,7 +31,7 @@ ________________________________________________________________________________
 
 PROJECT.
 Write a program to create A Budget_Tracker.
-Program Name: Moni_Budegt_Tracker.py
+Program Name: Expense_Tracker.py
 Features Of The Program.
 1. Data Base Connection Under Try Catch to localhost.
 2. Creation Of DataBase, and Tables as per Requirement.
