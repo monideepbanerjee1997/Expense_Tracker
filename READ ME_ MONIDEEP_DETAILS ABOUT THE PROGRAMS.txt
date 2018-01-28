@@ -1,0 +1,55 @@
+Project And Assignments On Python Done By:
+
+Name : Monideep Banerjee
+College : Siliguri Institute OF Technology.
+Registration ID : TECHLST170054
+Course : Python
+
+
+
+***************************************************************************************************
+Assignments:
+
+1.write a code which will print its own source code.
+Answer in File.
+printsource.py 
+This prints its own source code
+and another 
+runanother.py
+it prints the cource code of The File Name Fed To IT.
+
+2. Write a Program To generate a 4 digit number.
+and try guessing it. print the number of cows if digits match, or bulls for the number of digits that doesn't matches.
+COWAND BULLS GAME. 4 digit game true cows. false bulls.
+Answer in File.
+cowsandbulls.py
+
+3. Write a Program to Enter Any number and print It in words.
+Answer in File.
+num_to_words.py
+_____________________________________________________________________________________________
+
+PROJECT.
+Write a program to create A Budget_Tracker.
+Program Name: Moni_Budegt_Tracker.py
+Features Of The Program.
+1. Data Base Connection Under Try Catch to localhost.
+2. Creation Of DataBase, and Tables as per Requirement.
+3. Program Menu. 
+     i)Registration Of Users.
+     ii) Login for Users.
+     iii) Exit. Goodbye.
+4. Validation of All Details As Per Requirement. Like For Password, Name, email, Gender and so on.
+5. Log in Menu. Contains Validation Of proper Entered Email too.
+6. User Menu. Contains
+     i) Add to Savings.  -  Adds Money To Credit and calculates current balance.
+     ii) Add to Expense. -  Adds Money To Debit and calculates current balance.
+     iii) Generate Balance Sheet - Generates The Balance Sheet of the User as Per As he/she has entered into the database.
+     iv) Logout - Logsoff for the specified logged in user.
+     Contains validation of Date entered is valid or not and in proper format.
+     validation of info of expense, and amount entered.
+7. Modules used are - Modules In the Program are mysql.connector , sys, time, re, datetime, and math.
+
+Works Well In python 3.6 version or lower, just all the modules need to stay installed.
+
+************************************************************************************************
